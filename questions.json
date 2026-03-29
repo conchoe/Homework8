@@ -1,0 +1,93 @@
+{
+  "questions": [
+    {
+      "question": "What keyword is used to define a function in Python?",
+      "type": "multiple_choice",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def",
+      "category": "Python Basics",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "A list in Python is immutable.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Data Structures",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What built-in function returns the number of items in a list?",
+      "type": "short_answer",
+      "answer": "len",
+      "category": "Python Basics",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "what is the time complexity of binary search?",
+      "type": "multiple_choice",
+      "options": ["O(N)", "O(N^2)", "O(logN)", "O(NlogN)"],
+      "answer": "O(logN)",
+      "category": "Time Complexity",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "The built-in search algorithm in Python is linear search",
+      "type": "true_false",
+      "answer": "true",
+      "category": "Python Basics",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which symbol starts a comment in Python?",
+      "type": "multiple_choice",
+      "options": ["//", "#", "/*", "--"],
+      "answer": "#",
+      "category": "Python Basics",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Tuples in Python can be modified after creation.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Data Structures",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What keyword defines an anonymous small function?",
+      "type": "short_answer",
+      "answer": "lambda",
+      "category": "Python Basics",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the output type of the expression 10 // 3 in Python 3?",
+      "type": "multiple_choice",
+      "options": ["float", "int", "str", "bool"],
+      "answer": "int",
+      "category": "Python Basics",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "A dictionary stores key-value pairs.",
+      "type": "true_false",
+      "answer": "true",
+      "category": "Data Structures",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What method adds an item to the end of a list?",
+      "type": "short_answer",
+      "answer": "append",
+      "category": "Data Structures",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the average time complexity of lookup in a hash table?",
+      "type": "multiple_choice",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+      "answer": "O(1)",
+      "category": "Time Complexity",
+      "difficulty": "Hard"
+    }
+  ]
+}
