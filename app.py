@@ -41,7 +41,7 @@ def base_difficulty_weights(elo: int) -> Dict[str, float]:
     """Rank-driven pool (acceptance criteria)."""
     r = rank_name(elo)
     if r == "Bronze":
-        return {"Easy": 0.4, "Medium": 0.6, "Hard": 0.0}
+        return {"Easy": 0.7, "Medium": 0.3, "Hard": 0.0}
     if r == "Silver":
         return {"Easy": 0.15, "Medium": 0.55, "Hard": 0.30}
     if r == "Gold":
